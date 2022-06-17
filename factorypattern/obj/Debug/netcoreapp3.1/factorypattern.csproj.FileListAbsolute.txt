@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.exe
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.deps.json
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.dll
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\bin\Debug\netcoreapp3.1\factorypattern.pdb
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.dll
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.pdb
+C:\Users\jay\Desktop\csharp27\factorypattern\factorypattern\obj\Debug\netcoreapp3.1\factorypattern.genruntimeconfig.cache
